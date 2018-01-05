@@ -1,7 +1,7 @@
 Cinema
 ======
 
-Cinema is a gamemode for Garry's Mod 13 which features synchronized video playback. The following repo will be slightly modified to incorporate synchronized viewing of user files and additional streaming services, elective browser based cryptocurrency mining, and minigames.
+Cinema is a gamemode for Garry's Mod 13 which features synchronized video playback. The following repo will be slightly modified to incorporate synchronized viewing of user files and additional streaming services, elective browser based cryptocurrency mining, and minigames. **Note: this branch does NOT reflect the official release but was forked from it for my own use and modification. Please see the links below for details about the official release.**
 
 #### Features ####
 * Synchronized video playback
